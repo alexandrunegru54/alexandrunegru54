@@ -28,5 +28,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=alexandrunegru54&theme=transparent&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=alexandrunegru54&icon=2&color=cyan)](https://visitcount.itsvg.in)
-
+[![](https://komarev.com/ghpvc/?username=alexandrunegru54&icon=2&color=green)](https://visitcount.itsvg.in)
