@@ -49,8 +49,9 @@
   <a href="#" style="display:inline-block;"><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="40" /></a>
 </p>
 
----
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=alexandrunegru54&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=alexandrunegru54&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=alexandrunegru54&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=alexandrunegru54&theme=transparent&hide_border=true&mode=weekly)](https://git.io/streak-stats)
